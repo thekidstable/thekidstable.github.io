@@ -8,9 +8,6 @@ $(function() {
   $("#about").click(function() {
     $("#content-container").load("about.html");
   });
-  $("#characters").click(function() {
-    $("#content-container").load("characters.html");
-  });
   $("#contact").click(function() {
     $("#content-container").load("contact.html");
   });
