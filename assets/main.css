@@ -8,3 +8,7 @@
 body {
   font-family: "Montserrat", "Helvetica Neue", "Helvetica", sans-serif;
 }
+
+#content-container {
+  padding-top: 30px;
+}
