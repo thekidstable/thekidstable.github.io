@@ -1,7 +1,7 @@
 $(function() {
   // Default to about page
   $(document).ready(function() {
-    $("#content-container").load("episodes.html");
+    $("#content-container").load("about.html");
   });
 
   // Set up navbar links
@@ -13,6 +13,9 @@ $(function() {
   });
   $("#cast").click(function() {
     $("#content-container").load("cast.html");
+  });
+  $("#photos").click(function() {
+    $("#content-container").load("photos.html");
   });
   /*
   $("#events").click(function() {
