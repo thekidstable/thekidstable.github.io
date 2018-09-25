@@ -1,7 +1,7 @@
 $(function() {
   // Default to about page
   $(document).ready(function() {
-    $("#content-container").load("about.html");
+    $("#content-container").load("episodes.html");
   });
 
   // Set up navbar links
