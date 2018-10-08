@@ -5,10 +5,35 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-
 <url>
   <loc>https://thekidstableseries.com/</loc>
-  <lastmod>2018-10-03T20:47:45+00:00</lastmod>
+  <lastmod>2018-10-08T03:51:18+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://thekidstableseries.com/index.html</loc>
+  <lastmod>2018-10-08T03:51:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thekidstableseries.com/episodes.html</loc>
+  <lastmod>2018-10-08T03:51:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thekidstableseries.com/cast_and_crew.html</loc>
+  <lastmod>2018-10-08T03:51:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thekidstableseries.com/photos.html</loc>
+  <lastmod>2018-10-08T03:51:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thekidstableseries.com/contact.html</loc>
+  <lastmod>2018-10-08T03:51:18+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
